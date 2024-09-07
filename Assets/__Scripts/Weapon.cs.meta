@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fea111c1737a3814fb6b12ab2a40cf0f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - audioSource: {instanceID: 0}
+  - blasterSound: {instanceID: 0}
+  - missileSound: {fileID: 8300000, guid: 109b037140020614380b20fa8073188e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
